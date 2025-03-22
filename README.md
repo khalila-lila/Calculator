@@ -1,16 +1,31 @@
-# cal_flutter
+# Ice Bear Calculator
+## Deskripsi Aplikasi
 
-A new Flutter project.
+Ice Bear Calculator adalah sebuah aplikasi kalkulator sederhana yang menghitung dengan operasi matematika dasar. Aplikasi ini memiliki fitur:
+* Operasi matematika dasar (+, -, ×, ÷)
+* Riwayat penghitungan
+* Profil Pengguna
 
-## Getting Started
+## Software yang digunakan
+* Flutter (Dart)
+* Package: math_expressions, untuk operasi matematika.
 
-This project is a starting point for a Flutter application.
+## Cara Instalasi
+    1. Pastikan Flutter SDK sudah terinstal di perangkat.
+    2. Clone repository ini ke komputer 
+    git clone https://github.com/khalila-lila/Calculator.git 
+    cd Calculator 
+    3. Jalankan perintah untuk mengunduh dependency: flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+## Cara Menjalankan
+    1. Jalankan aplikasi dengan perintah: flutter run 
+    2. Pilih 1/2/3 (sesuai kebutuhan) untuk menjalankanya diplatfrom yang anda mau.
+    3. Tulis q: untuk keluar dari aplikasi, r/R: untuk refresh ketika ada perubahan baru dari code.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
+video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Identitas
+Nama: Khalila Sarah A.
+Kelas: XI RPL 2.
+Sekolah: SMK N 1 Bantul.
