@@ -23,7 +23,8 @@ Ice Bear Calculator adalah sebuah aplikasi kalkulator sederhana yang menghitung 
     3. Tulis q: untuk keluar dari aplikasi, r/R: untuk refresh ketika ada perubahan baru dari code.
 
 ## Demo
-video
+Video demo aplikasi pada link drive berikut:
+https://drive.google.com/drive/folders/1TboOUuPDWrTQm5arAILp01gM1CTKwqUg?usp=drive_link
 
 ## Identitas
 Nama: Khalila Sarah A.
